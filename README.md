@@ -15,7 +15,7 @@ Data visualization is an important skill that is used in many parts of the data 
 **Explanatory data visualization** techniques are used after generating your findings, and are used to help communicate your results to others. Understanding design considerations will make sure that your message is clear and effective. In addition to being a good producer of visualizations, going through this project will also help you be a good consumer of visualizations that are presented to you by others.
 
 ## What will I learn?
-After completing this project, you will be able to:
+After completing this project, I will be able to:
 
 - Supplement statistics with visualizations to build understanding of data.
 - Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
